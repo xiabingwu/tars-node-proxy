@@ -1,7 +1,7 @@
 {
-  "name": "tars-proxy",
+  "name": "tars-node-proxy",
   "version": "1.0.0",
-  "description": "tars服务转发，支持本地开发",
+  "description": "tars-node服务转发，支持本地开发",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xiabingwu/tars-proxy.git"
+    "url": "https://github.com/xiabingwu/tars-node-proxy.git"
   },
   "dependencies": {
     "@tars/registry": "^2.0.3",
