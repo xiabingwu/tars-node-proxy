@@ -1,6 +1,6 @@
 {
   "name": "tars-node-proxy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "tars-node服务转发，支持本地开发",
   "main": "index.js",
   "scripts": {
