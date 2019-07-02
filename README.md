@@ -6,7 +6,7 @@
 ### 使用方法
 - 代理部署（请作为一个tars应用服务部署）
 ```javascript
-const proxy=require('tars-proxy');
+const proxy=require('tars-node-proxy');
 const server=proxy({
     proxyIp:process.env.IP,// 默认为tars web平台，servant ip
     proxyPort:process.env.PORT//默认为tars web平台，servant port
